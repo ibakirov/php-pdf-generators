@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/php-pdf-generators",
+  "description": "PHP PDF GENERATORS",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ilyas Bakirov",
+      "email": "i.bakirov@gmail.com"
+    }
+  ],
+  "require": {
+    "mpdf/mpdf": "^8.0",
+    "tecnickcom/tcpdf": "^6.4",
+    "setasign/tfpdf": "^1.32"
+  }
+}
